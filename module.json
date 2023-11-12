@@ -1,6 +1,6 @@
 {
-    "id": "ctg-pat",
-    "name": "ctg-pat",
+    "id": "ctg",
+    "name": "ctg",
     "title": "Combat Tracker Groups - Pat",
     "description": "Group combatants in the Combat Tracker and roll for group initiative.",
     "authors": [
